@@ -8,10 +8,17 @@ https://www.diva-portal.org/smash/get/diva2:315864/FULLTEXT02
 ## System Identification for Multi-rate Systems 
 Multi-rate Systems are systems where the sample rate for different components are sampled at different sampling frequencies, ie $f_{s_1} \neq f_{s_2}$. This [paper](https://www.mic-journal.no/PDF/2014/MIC-2014-3-1.pdf) demonstrates a method to do system identification for an aluminium smelter, which is known for being a multi-rate system. 
 
+# Parametric Identification
 
+## AR
 
+## ARX
 
-# NARMAX
+## ARMA
+
+## ARMAX
+
+## NARMAX
 Non-linear Auto Regressive Moving Average with Exogenous Input. Attaining a NARMAX model requires the following steps:
 
 
