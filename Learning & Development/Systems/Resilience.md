@@ -1,0 +1,6 @@
+---
+aliases:
+  - resilient
+  - resilience
+  - Resilient
+---

@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "924ddaefe0f2a23a",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa196dc4a017fa22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a1327325a9aacc46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning & Development/Systems/Systems Modelling/System Identification/System Identification.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d922ad4ba6e8ed1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8a1adefc79da5f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63400576ff0a944f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "57a03797e07506bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1a0f0403b1b00e5d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 267.5
+  },
+  "right": {
+    "id": "c9fd9167891c189b",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbe850bef639828a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9641fb22460b1246",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Learning & Development/Systems/Systems Modelling/System Identification/System Identification.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fc700e468d930688",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Learning & Development/Systems/Systems Modelling/System Identification/System Identification.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b025bdbf42bf844c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cfdfa219b06a7394",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Learning & Development/Systems/Systems Modelling/System Identification/System Identification.md"
+              }
+            }
+          },
+          {
+            "id": "03cf130e0a973ea6",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6eeb935f27b6ff5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "cd2cbb1336ce6d0e",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "a1327325a9aacc46",
+  "lastOpenFiles": [
+    "Learning & Development/Systems/Control Systems/Kalman Filter.md",
+    "Learning & Development/Systems/Systems Modelling/System Modelling.md",
+    "Learning & Development/Systems/Systems Modelling/Agent-based Modelling (ABM).md",
+    "Learning & Development/Systems/Systems Modelling/Dynamic Systems.md",
+    "Learning & Development/Systems/Systems Modelling/MBSE/Capella MBSE.md",
+    "Learning & Development/Systems/Systems Modelling/MBSE/Model Based Systems Engineering (MBSE).md",
+    "Learning & Development/Computer Science/ChatGPT/Chat GPT.md",
+    "Learning & Development/Systems/Systems Modelling/MBSE",
+    "Learning & Development/Computer Science/Programming Languages/Python/Python Libraries/Python System Identification.md",
+    "Learning & Development/Computer Science/ChatGPT",
+    "Learning & Development/Computer Science/Programming Languages/Python/Python Libraries/Python Pandas.md",
+    "Learning & Development/Computer Science/Programming Languages/Python/MPC in Python.md",
+    "Learning & Development/Computer Science/Programming Languages/Python/Python.md",
+    "Learning & Development/Systems/Systems Modelling/System Identification/System Identification.md",
+    "Learning & Development/Computer Science/Machine Learning/Machine Vision.md",
+    "Learning & Development/Computer Science/Programming Languages/Algorithms/Sorting Algorithms.md",
+    "Learning & Development/Computer Science/Programming Languages/Python/Python Heater MPC.md",
+    "Learning & Development/Systems/Signals and Systems.md",
+    "Learning & Development/Systems/Resilience Engineering.md",
+    "Personal Projects/Home Automation/Distributed MPC Home.md",
+    "Personal Projects/Home Automation/Home Automation System.md",
+    "Personal Projects/Home Automation/ESP Home.md",
+    "Personal Projects/Home Automation/Open AI Smart Home.md",
+    "Personal Projects/Home Automation/Smart Lights.md",
+    "Personal Projects/Home Automation/Smart Switch.md",
+    "Personal Projects/Home Automation/TimescaleDB.md",
+    "Personal Projects/Home Automation/MultiSensor for Room.md",
+    "Learning & Development/Systems/Systems Modelling/System Identification/MATLAB System Identification.md",
+    "Learning & Development/Computer Science/Programming Languages/Python/Python Libraries",
+    "Screenshot 2024-04-29 at 18.51.37.png",
+    "Learning & Development/Systems/Systems Modelling/System Identification",
+    "Learning & Development/Systems/Control Systems/MPC",
+    "Learning & Development/Personal Development",
+    "Learning & Development/Computer Science/Containerisation",
+    "Personal Projects/Home Automation/Untitled",
+    "Learning & Development/Engineering/Electronics Engineering/CAD",
+    "Learning & Development/Engineering/Electronics Engineering/Microcontrollers",
+    "Untitled.canvas",
+    "Projects/Automating Atlas Creation/atlas_automation Use Case diagram.png",
+    "Projects/Automating Atlas Creation/atlas_automation Class diagram.png",
+    "Projects/Automating Atlas Creation/Sequence diagram.png",
+    "Pasted image 20240423133625.png",
+    "Assets/oemp_postprocessing_7_9.png",
+    "Assets/oemp_postprocessing_7_8.png",
+    "Assets/oemp_postprocessing_7_7.png",
+    "Assets/oemp_postprocessing_7_6.png",
+    "Assets/oemp_postprocessing_7_5.png"
+  ]
+}

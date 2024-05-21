@@ -1,0 +1,6 @@
+---
+aliases:
+  - cell
+  - Cell
+  - cells
+---
