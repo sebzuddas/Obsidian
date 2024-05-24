@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning & Development/Systems/Systems Modelling/MBSE/Capella MBSE.md",
+                "file": "Personal Projects/Home Automation/dsp for HA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning & Development/Systems/Systems Modelling/MBSE/Capella MBSE.md",
+                "file": "Personal Projects/Home Automation/dsp for HA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning & Development/Systems/Systems Modelling/MBSE/Capella MBSE.md",
+                "file": "Personal Projects/Home Automation/dsp for HA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning & Development/Systems/Systems Modelling/MBSE/Capella MBSE.md"
+                "file": "Personal Projects/Home Automation/dsp for HA.md"
               }
             }
           },
@@ -173,6 +173,9 @@
   },
   "active": "2a6d102bc6d5d401",
   "lastOpenFiles": [
+    "Personal Folder/Personal_documents/Moving to NL/Recruitment Companies.md",
+    "Personal Projects/Home Automation/dsp for HA.md",
+    "Learning & Development/Systems/Systems Modelling/MBSE/Capella MBSE.md",
     "Learning & Development/Systems/Systems Modelling/MBSE/Model Based Systems Engineering (MBSE).md",
     "Personal Folder/Personal_documents/Moving to NL/Cover Letters/Allseas Cover Letter.md",
     "Personal Folder/Personal_documents/Moving to NL/Cover Letters/bol.com.md",
@@ -189,17 +192,14 @@
     "Personal Folder/Personal_documents/Moving to NL/Cover Letters/Metabolic Cover Letter.md",
     "Personal Folder/Personal_documents/Moving to NL/Cover Letters/Jumbo Cover Letter.md",
     "Personal Folder/Personal_documents/Moving to NL/Cover Letters/energy job line control engineer.md",
-    "Personal Folder/Personal_documents/Moving to NL/Recruitment Companies.md",
     "Personal Folder/Personal_documents/Moving to NL/Companies.md",
     "Personal Folder/Personal_documents/Moving to NL/Cover Letters/ESA Motivation Letter - Life Support Systems.md",
     "Personal Folder/Personal_documents/Moving to NL/Cover Letters",
-    "Learning & Development/Systems/Systems Modelling/MBSE/Capella MBSE.md",
     "Learning & Development/Personal Development/Influence.md",
     "Learning & Development/Personal Development/Rapport.md",
     "Learning & Development/Systems/Systems Modelling/System Identification/System Identification.md",
     "Learning & Development/Systems/Control Systems/Kalman Filter.md",
     "Learning & Development/Systems/Systems Modelling/System Modelling.md",
-    "Learning & Development/Systems/Systems Modelling/Agent-based Modelling (ABM).md",
     "Learning & Development/Systems/Systems Modelling/MBSE",
     "Learning & Development/Computer Science/ChatGPT",
     "Learning & Development/Computer Science/Programming Languages/Python/Python Libraries",

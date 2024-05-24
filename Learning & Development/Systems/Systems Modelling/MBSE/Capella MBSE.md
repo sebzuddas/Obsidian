@@ -9,25 +9,30 @@ Capella is an MBSE tool that assists the user in going through the whole [[Model
 ## Why Capella?
 Capella helps you identify opportunities to innovate. Sustained innovation is the goal, and Capella helps that happen. It does this by employing the ARCitecture Analysis & Design Integrated Approach (ARCADIA) method. ARCADIA helps you understand the problem, and define what parts of the problem you need to address. In helping define the problem, communication of the problem becomes easier to other parts of an organisation, including non experts. 
 
+## Key Features
+### Automated Documentation
+Including summaries on each object ensures comprehensive documentation, which can be compiled in a consistent way. 
+
+### Plugins
+There are many [plugins](https://mbse-capella.org/addons.html) for Capella. 
+
+### Creating Different Diagrams
+It is normal to create a variety of diagrams, each outlining a specific function of the system in question. 
+
+
 ## Using [[System Modelling|System Models]]
 ### Definitions
-![[System Modelling#^85c6a7]]
-![[System Modelling#^31c1e5]]
+![[System Modelling#Systems]]
+![[System Modelling#Models]]
+
+
 
 
 ## Operational Analysis
 Operational analysis will help you understand the problem you wish to solve by modeling the problem. The boundary for what is included at this phase is not strictly clear, but it is important that it is more general than what is used on the system analysis level. This is because **all elements on a given level need to be realised in a subsequent level**. Operational analysis being the top level implies that all entities, capabilities and activities need to be general enough to be further refined at the next level. It is also important **Not to mention or architect a solution** for the given problem. 
 
-#### Creating different Diagrams
-It is normal to create a variety of diagrams, each outlining a specific function of the system in question. 
-
-
-
-
 ### Operational Entities
 Operational entities provide a high-level representation of the different entities that the system will use in its operation. An entity that cannot be reduced further than a human being is referred to as an 'actor', and an entity that a human being interacts with (eg an organisation or a toy or a computer) is simply an operational entity. 
-
-
 
 ### Operational Capability
 An Operational **Capability** blank diagram depicts the capabilities the users expect. In this, Capella depicts Actors and Entities through a modelling notation. Capella also depicts Operational Capabilities in a modelling notation. 
@@ -78,8 +83,17 @@ The contextual system actors diagram creates a new system element, and connects 
 
 It is also worth considering **system boundaries** at this point. If your system is a toy catapult, should you include projectiles as part of the system? There are pros and cons - we could provide styrofoam balls, or we could conclude that a user would find their own projectiles. If it was a design decision to include the styrofoam balls, then it is included within the system, and we don't have to define new actors. If we decide to not include it, it is still an entity that interacts with the system, hence needs to be defined as an actor outside the system (system actor). 
 
-### Missons and Capabilities
+### Missions and Capabilities
 Operational capabilities need to be translated into missions and capabilities. They can all be imported from the operational analysis phase via the automated tool. 
+
+Import missions and capabilities. Define clearly few missions, and relate them to **system actors**. In large projects, break down the missions into capabilities. Relate the capabilities to both the mission and actors. Don't forget to make multiple diagrams if needed. 
+
+### Functions & Functional Exchanges
+
+The system architecture diagram is useful for defining functions and functional exchanges. This uses the **System Architecture Blank Diagram** as with the [[#Operational Architecture]] phase. **Create swimlanes**, and place the system in the centre, where the **user is on the left**, and any **external entities are on the right**. Import the functions outlined in the previous phase by selecting `allocated functions`. Each diagram represents a scenario, and therefore this process also warrants multiple diagrams. 
+
+This is the phase where **functional requirements** are outlined. Remember that system analysis is not the phase where we define **how the solution works**. As such, do your best to think abstractly and do not be too specific, as to leave design room to truly meet the requirements. 
+
 
 
 
