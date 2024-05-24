@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a1327325a9aacc46",
+            "id": "2a6d102bc6d5d401",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning & Development/Systems/Systems Modelling/System Identification/System Identification.md",
+                "file": "Learning & Development/Systems/Systems Modelling/MBSE/Capella MBSE.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5
+    "width": 347.5
   },
   "right": {
     "id": "c9fd9167891c189b",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning & Development/Systems/Systems Modelling/System Identification/System Identification.md",
+                "file": "Learning & Development/Systems/Systems Modelling/MBSE/Capella MBSE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning & Development/Systems/Systems Modelling/System Identification/System Identification.md",
+                "file": "Learning & Development/Systems/Systems Modelling/MBSE/Capella MBSE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning & Development/Systems/Systems Modelling/System Identification/System Identification.md"
+                "file": "Learning & Development/Systems/Systems Modelling/MBSE/Capella MBSE.md"
               }
             }
           },
@@ -171,36 +171,37 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a1327325a9aacc46",
+  "active": "2a6d102bc6d5d401",
   "lastOpenFiles": [
+    "Learning & Development/Systems/Systems Modelling/MBSE/Model Based Systems Engineering (MBSE).md",
+    "Personal Folder/Personal_documents/Moving to NL/Cover Letters/Allseas Cover Letter.md",
+    "Personal Folder/Personal_documents/Moving to NL/Cover Letters/bol.com.md",
+    "Learning & Development/Systems/Control Systems/MPC/Model Predictive Control (Python).md",
+    "Learning & Development/Systems/Control Systems/MPC/State-space Control.md",
+    "Learning & Development/Systems/Control Systems/MPC/Optimal Control.md",
+    "Learning & Development/Systems/Control Systems/MPC/Multi-Agent MPC.md",
+    "Learning & Development/Systems/Control Systems/MPC/Moving Horizon Estimation (MHE).md",
+    "Learning & Development/Systems/Control Systems/MPC/Model Predictive Control (MPC).md",
+    "Learning & Development/Computer Science/Programming Languages/Debugging.md",
+    "Personal Folder/Personal_documents/Moving to NL/Cover Letters/Spectral Energy Cover Letter.md",
+    "Personal Folder/Personal_documents/Moving to NL/Cover Letters/Battolyser Cover Letter.md",
+    "Personal Folder/Personal_documents/Moving to NL/Cover Letters/Skyborn Robotics Cover Letter.md",
+    "Personal Folder/Personal_documents/Moving to NL/Cover Letters/Metabolic Cover Letter.md",
+    "Personal Folder/Personal_documents/Moving to NL/Cover Letters/Jumbo Cover Letter.md",
+    "Personal Folder/Personal_documents/Moving to NL/Cover Letters/energy job line control engineer.md",
+    "Personal Folder/Personal_documents/Moving to NL/Recruitment Companies.md",
+    "Personal Folder/Personal_documents/Moving to NL/Companies.md",
+    "Personal Folder/Personal_documents/Moving to NL/Cover Letters/ESA Motivation Letter - Life Support Systems.md",
+    "Personal Folder/Personal_documents/Moving to NL/Cover Letters",
+    "Learning & Development/Systems/Systems Modelling/MBSE/Capella MBSE.md",
+    "Learning & Development/Personal Development/Influence.md",
+    "Learning & Development/Personal Development/Rapport.md",
+    "Learning & Development/Systems/Systems Modelling/System Identification/System Identification.md",
     "Learning & Development/Systems/Control Systems/Kalman Filter.md",
     "Learning & Development/Systems/Systems Modelling/System Modelling.md",
     "Learning & Development/Systems/Systems Modelling/Agent-based Modelling (ABM).md",
-    "Learning & Development/Systems/Systems Modelling/Dynamic Systems.md",
-    "Learning & Development/Systems/Systems Modelling/MBSE/Capella MBSE.md",
-    "Learning & Development/Systems/Systems Modelling/MBSE/Model Based Systems Engineering (MBSE).md",
-    "Learning & Development/Computer Science/ChatGPT/Chat GPT.md",
     "Learning & Development/Systems/Systems Modelling/MBSE",
-    "Learning & Development/Computer Science/Programming Languages/Python/Python Libraries/Python System Identification.md",
     "Learning & Development/Computer Science/ChatGPT",
-    "Learning & Development/Computer Science/Programming Languages/Python/Python Libraries/Python Pandas.md",
-    "Learning & Development/Computer Science/Programming Languages/Python/MPC in Python.md",
-    "Learning & Development/Computer Science/Programming Languages/Python/Python.md",
-    "Learning & Development/Systems/Systems Modelling/System Identification/System Identification.md",
-    "Learning & Development/Computer Science/Machine Learning/Machine Vision.md",
-    "Learning & Development/Computer Science/Programming Languages/Algorithms/Sorting Algorithms.md",
-    "Learning & Development/Computer Science/Programming Languages/Python/Python Heater MPC.md",
-    "Learning & Development/Systems/Signals and Systems.md",
-    "Learning & Development/Systems/Resilience Engineering.md",
-    "Personal Projects/Home Automation/Distributed MPC Home.md",
-    "Personal Projects/Home Automation/Home Automation System.md",
-    "Personal Projects/Home Automation/ESP Home.md",
-    "Personal Projects/Home Automation/Open AI Smart Home.md",
-    "Personal Projects/Home Automation/Smart Lights.md",
-    "Personal Projects/Home Automation/Smart Switch.md",
-    "Personal Projects/Home Automation/TimescaleDB.md",
-    "Personal Projects/Home Automation/MultiSensor for Room.md",
-    "Learning & Development/Systems/Systems Modelling/System Identification/MATLAB System Identification.md",
     "Learning & Development/Computer Science/Programming Languages/Python/Python Libraries",
     "Screenshot 2024-04-29 at 18.51.37.png",
     "Learning & Development/Systems/Systems Modelling/System Identification",
@@ -209,7 +210,6 @@
     "Learning & Development/Computer Science/Containerisation",
     "Personal Projects/Home Automation/Untitled",
     "Learning & Development/Engineering/Electronics Engineering/CAD",
-    "Learning & Development/Engineering/Electronics Engineering/Microcontrollers",
     "Untitled.canvas",
     "Projects/Automating Atlas Creation/atlas_automation Use Case diagram.png",
     "Projects/Automating Atlas Creation/atlas_automation Class diagram.png",
