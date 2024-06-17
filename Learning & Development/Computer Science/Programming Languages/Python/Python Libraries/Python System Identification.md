@@ -1,8 +1,6 @@
 
 There are multiple python libraries for conducting [[System Identification]]. 
 
-
-
 |             Library Name              |       Installation       |                        Link                        | Videos                                                                              |
 | :-----------------------------------: | :----------------------: | :------------------------------------------------: | ----------------------------------------------------------------------------------- |
 |                 SIPPY                 |                          |       https://github.com/CPCLAB-UNIPI/SIPPY        |                                                                                     |
@@ -31,6 +29,6 @@ It seems that PySINDy hasn't been used for process dynamics much, which is what 
 1. How do you account for a systems' reaction to unputs $u$? Do we need to account for these?
 2. Do you need to give it basis functions? Candidate models? What do you need to give it beyond state data?
 3. Sample rates & noise seem to be something to be aware of when working with this. Are there ways to reduce? Could use an SNR value, which could be a sensor attribute.
-4. 
+4. Can you add a column of one particular value to represent a constant?
 
 

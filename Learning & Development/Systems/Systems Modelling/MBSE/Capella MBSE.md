@@ -26,22 +26,43 @@ It is normal to create a variety of diagrams, each outlining a specific function
 ![[System Modelling#Models]]
 
 
+Online Tutorials:
+https://iexcelarc.com/operational-analysis-step-by-step/
+https://iexcelarc.com/operational-analysis-step-by-step/
+gettingdesignright.com/gdr-educate/capella_tutorial_v6_0
+
+### MBSE Relationships
+
+### Extends and Includes
+**Extends**:
+1. Extends the Functionality of...
+	1. Child to Parent
+2. Asynchronous
+3. Optional / Conditional
+4. 
+5. 
+
+**Includes**: 
+1. Includes the functionality of...
+	1. Parent to Child
 
 
 ## Operational Analysis
-Operational analysis will help you understand the problem you wish to solve by modeling the problem. The boundary for what is included at this phase is not strictly clear, but it is important that it is more general than what is used on the system analysis level. This is because **all elements on a given level need to be realised in a subsequent level**. Operational analysis being the top level implies that all entities, capabilities and activities need to be general enough to be further refined at the next level. It is also important **Not to mention or architect a solution** for the given problem. 
+Operational analysis will help you understand the problem you wish to solve by modelling the problem. The boundary for what is included at this phase is not strictly clear, but it is important that it is more general than what is used on the system analysis level. This is because **all elements on a given level need to be realised in a subsequent level**. Operational analysis being the top level implies that all entities, capabilities and activities need to be general enough to be further refined at the next level. It is also important **Not to mention or architect a solution** for the given problem. 
 
-### Operational Entities
+### Operational Entities (OEBD)
 Operational entities provide a high-level representation of the different entities that the system will use in its operation. An entity that cannot be reduced further than a human being is referred to as an 'actor', and an entity that a human being interacts with (eg an organisation or a toy or a computer) is simply an operational entity. 
 
 ### Operational Capability
-An Operational **Capability** blank diagram depicts the capabilities the users expect. In this, Capella depicts Actors and Entities through a modelling notation. Capella also depicts Operational Capabilities in a modelling notation. 
+An Operational **Capability** blank diagram depicts the *capabilities* the users expect. These are analogous to high-level system requirements. They should be solution agnostic. In this, Capella depicts Actors and Entities through a modelling notation. Capella also depicts Operational Capabilities in a modelling notation. 
 
 ### Operational Activity
 
-An Operational **Activity** diagram will deliver the capabilities with Operational Process. In this context, Capella depicts **Actors** and **Entities** that deliver **Functions**. These functions when combined become **Functional Chains** to deliver capabilities. 
+An Operational **Activity** diagram visually demonstrates how the system will deliver the operational capabilities through Operational Processes. In this context, Capella depicts **Actors** and **Entities** that deliver **Functions**. These functions, when combined, become **Functional Chains** to deliver capabilities. 
 
-Activities in the context of ARCADIA warrant the use of multiple diagrams, each representing a different scenario. Because objects are linked within Capella, an overarching diagram is then created, combining all scenarios. In other methodologies these are referred to as 'use cases'. Scenarios explain a given capability, and a capability can have multiple scenarios explaining it. When the process is completed, the idea is to have activities, allocated to operational entities or actors, and these activities will have interactions defined between them. We can organise this process as the following:
+A set of operational activities can also be thought of as *Use Cases*. This is also referred to as a Scenario. Every operational capability needs to have a corresponding use case / scenario. Sometimes the operational capability warrants an explanation through multiple use cases/scenarios. 
+
+Activities in the context of ARCADIA warrant the use of multiple diagrams, each representing a different scenario. Because objects are linked within Capella, an overarching diagram is then created, combining all scenarios. In other methodologies these are referred to as 'use cases'. Scenarios *explain* a given capability, and a capability can have multiple scenarios explaining it. When the process is completed, the idea is to have activities, allocated to operational entities or actors, and these activities will have interactions defined between them. We can organise this process as the following:
 
 1. Define the scenario
 2. Define all the activities
@@ -50,7 +71,7 @@ Activities in the context of ARCADIA warrant the use of multiple diagrams, each 
 5. Define the operational processes
 
 ### Operational Entity Scenario
-This part of the process links the operational activities with the operational capabilities. There should be a scenario for each operational activity, to fully realise each operational activity for the system in question. From a Capella perspective, any scenario with no matching operational capability is irrelevant to the project. 
+This part of the process *links the operational activities with the operational capabilities*. There should be a scenario for each operational activity, to fully realise each operational activity for the system in question. From a Capella perspective, any scenario with no matching operational capability is irrelevant to the project. 
 
 In this phase, transitions between activities are marked by a form of exchange between actors. These exchanges are general, and could include: information transfer, signal that an activity has completed, a physical transformation (something moving/changing), a request for a service etc. 
 

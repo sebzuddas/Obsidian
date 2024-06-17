@@ -3,6 +3,8 @@ The process of identifying [[Ordinary Differential Equations (ODEs)]] models fro
 https://www.diva-portal.org/smash/get/diva2:277019/FULLTEXT02
 https://www.diva-portal.org/smash/get/diva2:315864/FULLTEXT02
 
+# The Basic Ideas
+https://www.diva-portal.org/smash/get/diva2:315864/FULLTEXT02
 
 
 ## System Identification for Multi-rate Systems 
